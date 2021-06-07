@@ -21,6 +21,10 @@ namespace palindrome
                 }                
             }
             Console.ReadLine();
+
+
+
         }
+
     }
 }
